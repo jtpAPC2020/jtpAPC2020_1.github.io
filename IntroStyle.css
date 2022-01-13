@@ -1,0 +1,22 @@
+body {
+	background-color: LightGray;
+	margin-left: 35px;
+}
+h1 {
+	color: Black;
+	text-align: center;
+}
+div {
+	background-color: Gray;
+	color: rgb(214, 214, 194);
+	padding: 10px;
+	padding-left: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+strong {
+	color: White;
+}
+.pic {
+	margin: 10px 30px;
+}
